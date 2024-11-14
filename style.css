@@ -51,12 +51,7 @@ nav {
   justify-content: center;
   align-items: center ;
   gap: 10px;
-  /*display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-    width: 100%;
-    color: black;*/
+
 }
 
 header {
@@ -68,18 +63,6 @@ header {
   justify-content: center;
 }
 
-
-/*.btn {
-  font-family: "Kiwi Maru";
-  margin: 15px;
-  background-color: #ffffff;
-  border: #ffffff;
-  border-radius: 18%;
-  height: 40px;
-  width: 150px;
-  font-size: large;
-  
-}*/
 
 .nav-button{
 padding: 12px 20px;
@@ -139,10 +122,6 @@ h4{
 }
 
 .book-icon {
-  /* height: 200px;
-   width: 50%;
-  /* border-radius: 40%;
-  width: 500px; */
   grid-area: imagem;
   width: 100%;
   height: auto;
